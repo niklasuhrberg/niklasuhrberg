@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Cats
+- 🔭 In my current work I use: Scala, Akka Streams, Akka Cluster, Kafka, Kubernetes and more
 - 💬 Ask me about Java, Scala, Akka, Kafka
 - 📫 How to reach me: https://www.linkedin.com/in/niklas-uhrberg/
 

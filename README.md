@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Cats
 - 💬 Ask me about Java, Scala, Akka, Kafka
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/niklas-uhrberg/" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)" height="30" width="40" /></a> 
 - 📫 How to reach me: https://www.linkedin.com/in/niklas-uhrberg/
 

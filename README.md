@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Cats
-- 🔭 In my current work I use: Scala, Akka Streams, Akka Cluster, Kafka, Kubernetes and more
+- 🌱 I’m currently learning Rust
+- 🔭 In my current work I use: Java, Spring, React, Vavr, Docker, Kubernetes, AWS and more
 - 💬 Ask me about Java, Scala, Akka, Kafka
 - 📫 How to reach me: https://www.linkedin.com/in/niklas-uhrberg/
 
